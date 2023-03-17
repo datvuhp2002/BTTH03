@@ -1,0 +1,12 @@
+{
+    "name": "datvu/bai2",
+    "authors": [
+        {
+            "name": "Vu Trong Dat",
+            "email": "datvuhp2002@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit" :"^9.5"
+    }
+}
